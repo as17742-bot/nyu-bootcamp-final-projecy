@@ -227,3 +227,11 @@ The comparison of models and markets highlights how **sector dominance, volatili
 - Scikit-learn Documentation
 - IMF World Economic Outlook (2023)
 - Bloomberg Market Reports
+
+## We have also created a website to showcase our project.
+To run it, provide command streamlit run ourapp.py into the VS Code terminal. User will then be prompted to provide 2 .csv files.
+
+## Link to our presentation:
+https://drive.google.com/file/d/1Bmt8ztJCLIS-9rd7VtRgvJKwrj-7Ye9i/view?usp=sharing
+
+
